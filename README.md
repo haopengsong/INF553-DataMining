@@ -1,6 +1,6 @@
 # INF553-DataMining
 
-Courseword for "Foundations and Applications of Data Mining", 2019 summer
+Coursework for "Foundations and Applications of Data Mining", 2019 summer
 
 | HW Project | Topic  | Related Algorithm |
 | ----------- | ----- | -------------------- |
